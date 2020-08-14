@@ -1,0 +1,7 @@
+
+.ipynb_checkpoints/FraudDetectionModel-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.vscode/settings.json
+__pycache__/predict_fraud.cpython-37.pyc
+__pycache__/Transaction_obj.cpython-37.pyc
+creditcard.csv
