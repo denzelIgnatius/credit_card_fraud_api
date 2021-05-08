@@ -1,0 +1,6 @@
+pickle
+pandas
+logging
+Flask
+numpy
+gunicorn
