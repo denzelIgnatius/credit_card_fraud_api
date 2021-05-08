@@ -3,3 +3,8 @@ pandas
 Flask
 numpy
 gunicorn
+Werkzeug
+Click
+itsdangerous
+MarkupSafe
+Jinja2
