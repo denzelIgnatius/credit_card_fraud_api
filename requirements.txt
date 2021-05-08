@@ -1,6 +1,5 @@
 pickle-mixin
 pandas
-logging
 Flask
 numpy
 gunicorn
