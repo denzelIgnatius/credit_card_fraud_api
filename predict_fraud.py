@@ -7,7 +7,7 @@ def load_saved_model():
     model = pickle.load(open(filename, 'rb'))
     if model == None:
         raise Exception("Error: loading model failed")
-    test_df = pd.read_csv('C:/Users/denze/Documents/credit_card_fraud_api/test data/testData.csv')
+    test_df = pd.read_csv('test data/testData.csv')
     if len(test_df) == 0:
         raise Exception("Error: loading test data failed")
     X_test = test_df.drop(['Class'], axis =1)
