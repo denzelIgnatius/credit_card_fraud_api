@@ -3,4 +3,4 @@ pandas
 Flask
 numpy
 gunicorn
-sklearn.ensemble.forest
+scikit-learn==0.21.3
