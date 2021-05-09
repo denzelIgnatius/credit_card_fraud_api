@@ -3,4 +3,4 @@ pandas
 Flask
 numpy
 gunicorn
-sklearn
+sklearn.ensemble.RandomForestClassifier
